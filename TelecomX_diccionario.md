@@ -19,5 +19,5 @@
 - `Contract`: tipo de contrato
 - `PaperlessBilling`: si el cliente prefiere recibir la factura en línea
 - `PaymentMethod`: forma de pago
-- `Charges.Monthly`: total de todos los servicios del cliente por mes
-- `Charges.Total`: total gastado por el cliente
+- `Charges_Monthly`: total de todos los servicios del cliente por mes
+- `Charges_Total`: total gastado por el cliente
