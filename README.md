@@ -29,7 +29,7 @@ La evasión afecta la rentabilidad y la estabilidad de la empresa. Entender qui�
 ## Tecnologías usadas
 
 - Python 3  
-- Pandas para manipulación de datos  
+- Pandas y Numpy para manipulación de datos  
 - Seaborn y Matplotlib para gráficos  
 - Jupyter / Google Colab para el notebook  
 
